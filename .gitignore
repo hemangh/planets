@@ -3,3 +3,5 @@
 *.mod
 *.o
 /result
+*.data
+!final.data
